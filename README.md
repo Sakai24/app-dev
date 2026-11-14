@@ -1,22 +1,30 @@
 # My Favorite Movie
-## 🕷️ Spider-Man
+## 🕷️ **Spider-Man: No Way Home (2021)**
 
-Spider-Man is my favorite movie because it is full of action, adventure, and inspiring moments. I like Spider-Man because he is brave, helpful, and always tries to protect people.
+![Spider-Man Movie Poster](https://tse3.mm.bing.net/th/id/OIP.2QkJYlB5TMLQO8SdegwnywHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
-Why I Like Spider-Man. He is a brave and responsible superhero, the action scenes are exciting. 
-The story teaches us to help others, he never gives up even when things get difficult.
-My Favorite Character **Peter Parker (Spider-Man)**
-
-# My Favorite Quote
-*"With great power comes great responsibility."*
+### Short Description
+The movie is about Peter Parker, whose identity as Spider-Man is revealed to the world. He asks Doctor Strange for help to make everyone forget his identity, but the spell goes wrong and brings villains from other universes into his world.
 
 ### Movie Information
 | Element | Description |
 |---|---|
-| Movie | Spider-Man |
+| Movie Title | Spider-Man: No Way Home|
+| Release year | 2021 |
 | Genre | Action, Adventure, Sci-Fi |
+| Actor | Tom Holland |
+| Director | Jon Watts |
+| Production | Marvel Studio |
 | Main Character | Peter Parker |
-| Rating | 5/5 stars |
-| Favorite Scene | Saving people |
+| Rating | ⭐ 8.1/10 |
 
-⭐⭐⭐⭐⭐ 5/5
+# Famous Quote
+*"With great power comes great responsibility."*
+
+### Characters
+1. Peter Parker – The friendly neighborhood superhero.
+2. MJ – Peter's girlfriend and close friend.
+3. Ned Leeds – Peter's best friend.
+4. Doctor Strange – A powerful sorcerer who helps Peter.
+5. Green Goblin – One of Spider-Man's dangerous enemies.
+6. Doctor Octopus – A scientist with mechanical arms.
